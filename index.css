@@ -1,0 +1,33 @@
+td {
+    color:#c8b7a6;
+
+
+}
+h1 {
+    color: #7d94b5;
+    font-weight: bolder;
+}
+
+th {
+    color: #c29591;
+}
+
+body {
+    background-color: #703f37;
+    text-align: center;
+}
+
+.tabletitle {
+    color: #b6c199;
+    font-size: 20px;
+}
+
+table {
+    margin: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+thead {
+    padding: 10px;
+}
